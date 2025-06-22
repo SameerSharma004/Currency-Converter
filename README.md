@@ -18,8 +18,8 @@ A simple and responsive currency converter web application built using **React**
 
 - **React** (with Hooks)
 - **JavaScript (ES6+)**
-- **HTML5 & CSS3**
-- **Exchange Rates API** (e.g. [fxratesapi.com](https://fxratesapi.com/))
+- **HTML5 & Tailwind CSS**
+- **Exchange Rates API** ([fxratesapi.com](https://fxratesapi.com/))
 
 ---
 
